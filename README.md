@@ -58,7 +58,7 @@ Attendance_Report.xlsx
 
 Includes:
 
-Attendance records
+Attendance records  
 Student data
 Summary sheet
 ⚠️ Important Notes
